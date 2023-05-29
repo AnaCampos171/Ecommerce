@@ -25,3 +25,5 @@ N/A
 https://github.com/AnaCampos171/Ecommerce
 
 ## Link to a video walkthrough demonstrating app functionality: 
+https://drive.google.com/file/d/1TZW1u9rmdifXz78wDJzy4ab8Lpg6IS2B/view
+
