@@ -1,3 +1,4 @@
+Product-routes
 const router = require('express').Router();
 const { Product, Category, Tag, ProductTag } = require('../../models');
 
@@ -122,4 +123,5 @@ router.delete('/:id', async (req, res) => {
 });
 
 module.exports = router;
+
 
